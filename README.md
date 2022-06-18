@@ -1,25 +1,9 @@
-Grab Front End Guide
+Front End Guide
 ==
 
+Architech NextJS: https://www.canva.com/design/DAFDmbUv0t8/GOLQTquBT5SG8IHdm5Cpdg/view#1
+
 [![Front End Developer Desk](images/desk.png)](https://dribbble.com/shots/3577639-Isometric-Developer-Desk)
-
-_Credits: [Illustration](https://dribbble.com/shots/3577639-Isometric-Developer-Desk) by [@yangheng](https://dribbble.com/yangheng)_
-
-_This guide has been cross-posted on [Free Code Camp](https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41)._
-
-[Grab](https://www.grab.com) is Southeast Asia (SEA)'s leading transportation platform and our mission is to drive SEA forward, leveraging on the latest technology and the talented people we have in the company. As of May 2017, we handle [2.3 million rides daily](https://www.bloomberg.com/news/videos/2017-05-11/tans-says-company-has-more-than-850-000-drivers-video) and we are growing and hiring at a rapid scale.
-
-To keep up with Grab's phenomenal growth, our web team and web platforms have to grow as well. Fortunately, or unfortunately, at Grab, the web team has been [keeping up](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22) with the latest best practices and has incorporated the modern JavaScript ecosystem in our web apps.
-
-The result of this is that our new hires or back end engineers, who are not necessarily well-acquainted with the modern JavaScript ecosystem, may feel overwhelmed by the barrage of new things that they have to learn just to complete their feature or bug fix in a web app. Front end development has never been so complex and exciting as it is today. New tools, libraries, frameworks and plugins emerge every other day and there is so much to learn. It is imperative that newcomers to the web team are guided to embrace this evolution of the front end, learn to navigate the ecosystem with ease, and get productive in shipping code to our users as fast as possible. We have come up with a study guide to introduce why we do what we do, and how we handle front end at scale.
-
-This study guide is inspired by ["A Study Plan to Cure JavaScript Fatigue"](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.g9egaapps) and is mildly opinionated in the sense that we recommend certain libraries/frameworks to learn for each aspect of front end development, based on what is currently deemed most suitable at Grab. We explain why a certain library/framework/tool is chosen and provide links to learning resources to enable the reader to pick it up on their own. Alternative choices that may be better for other use cases are provided as well for reference and further self-exploration.
-
-If you are familiar with front end development and have been consistently keeping up with the latest developments, this guide will probably not be that useful to you. It is targeted at newcomers to front end.
-
-If your company is exploring a modern JavaScript stack as well, you may find this study plan useful to your company too! Feel free to adapt it to your needs. We will update this study plan periodically, according to our latest work and choices.
-
-*- Grab Web Team*
 
 **Pre-requisites**
 
